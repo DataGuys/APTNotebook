@@ -1,7 +1,8 @@
 
 # Sentinel APT Hunt Notebook Environment
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F<YOUR_GITHUB_ACCOUNT>%2Fsentinel-apt-hunt%2Fmain%2Ftemplates%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDataGuys%2FAPTNotebook%2Frefs%2Fheads%2Fmain%2Ftemplates%2Fazuredeploy.json)
+
 
 ## Overview
 This repository bootstraps a Microsoft Sentinel notebook environment—complete with Azure Machine Learning support, MSTICPy configuration, and automated Azure AD app registration—
