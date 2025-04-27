@@ -1,0 +1,16 @@
+AzureSentinel:
+  Workspaces:
+    Default:
+      WorkspaceId: "<WORKSPACE_GUID>"
+      TenantId: "<TENANT_GUID>"
+      SubscriptionId: "<SUBSCRIPTION_GUID>"
+      ResourceGroup: "<RESOURCE_GROUP>"
+      WorkspaceName: "<WORKSPACE_NAME>"
+
+DataProviders:
+  AzureCLI:
+    # auth_methods controls which creds msticpy tries in order
+    auth_methods: ["cli", "msi", "devicecode"]
+    clientId: ""
+    clientSecret: ""
+    tenantId: ""

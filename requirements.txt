@@ -1,0 +1,9 @@
+msticpy>=2.16
+azure-identity
+azure-mgmt-loganalytics
+azure-mgmt-securityinsights
+pyod
+pandas
+numpy
+scikit-learn
+matplotlib
